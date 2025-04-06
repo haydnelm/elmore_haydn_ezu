@@ -1,0 +1,4 @@
+One thing that we might be able to add to the Django admin app to aid in this assignment could be a complete link tree/outline.
+Sort of like how you would write an outline for a paper, you could have an outline of links and their sub-links.
+Indentation would be included to make it more readable, but you could have a complete list of every link and every
+sub-link for every page. Sort of like a master view.

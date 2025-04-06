@@ -1,0 +1,6 @@
+1. Merging our overwritten Django admin templates would be one customization we could use to help with the testing process of the
+controller assignment. For example, we could have one "complete" template that is just a merger of every template details page.
+Basically, it contains all tables and details that the original pages would have, you'd just scroll to see each result. This measure
+would be solely for the purpose of testing, and thus, you could have a pretty unique and non-streamlined URL for it. We could also
+delete it after testing, or rather, temporarily "disable" it until further use might be needed. This might help with seeing each page
+as quickly as possible without the need to retype URLs.

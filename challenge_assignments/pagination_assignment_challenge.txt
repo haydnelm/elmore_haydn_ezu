@@ -1,0 +1,7 @@
+Considering a lot of this assignment has to do with visual changes, I'm really not sure of any ideas. The pagination aspect
+of this assignment can be explored simply by clicking through the "next" and "previous" buttons. I put some thought into how
+to explore that in a better way, but I really have no clue. It seems like active exploration is the best way. The CSS aspect
+of this assignment can really only be explored by visiting different html pages. A lot of this assignment was instructor driven,
+there were a lot of copy and pasted changes. I'm sorry that I couldn't answer this question, but I am not really sure what changes
+I could make to the Django admin app that would help or assist with this week's work. Maybe I'm looking at it in the wrong way.
+Do you have any suggestions?

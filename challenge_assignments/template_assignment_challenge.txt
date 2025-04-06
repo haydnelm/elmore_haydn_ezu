@@ -1,0 +1,11 @@
+1. One change that we could make is properly hyper-linking each URL (for course, instructor, registration, etc...)
+so that we could access each URL from each other URL location. This would create fluidity and increase the speed
+in which we would be able to test/view the website. Currently, we'd need to type each web handle at the top in
+the URL search bar. I believe all we would need to do to implement this is to add a reference link to each webpage
+in each html file.
+
+2. Another change we could implement would be CSS code in general. I know this doesn't necessarily make anything
+more efficient, but it might make things easier on the eyes which could help with the overall process. It wouldn't
+be too terribly difficult to add CSS either, you could just work on your preferences for one file and then duplicate
+the file for each other page. Then you'd just change the necessary words in the code (like course, instructor, etc...)
+to make sure that it works properly.

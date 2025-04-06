@@ -1,0 +1,8 @@
+One customization that I came across during my research to improve the Django Admin app is hyperlinking to other pages.
+For example, each of courses could have a hyperlink to a separate student column that displays every student registered in the course.
+Following along that logic, we could have a hyperlink to the list of courses that each individual instructor teaches.
+This change could increase the speed and workflow of viewing our testing data.
+
+Another customization that I came across was adding filters. Now, the EZU database that's been created so far doesn't have a ton of data.
+So, filters might not be extremely useful. However, as more data is added, filters become more and more impactful.
+We could, for instance, filter specific courses by their semester. We could also filter something like periods for courses.

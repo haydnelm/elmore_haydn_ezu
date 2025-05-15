@@ -1,7 +1,0 @@
-I think one thing that could help us with this week's work would be a django admin feature that allowed us to import users.
-One thing we did during this assignment was individually create each user and check their permissions. This might be a bit
-time-consuming, especially if we have a lot more users. We could add a feature in the admin app to create a large amount of
-users by importing them and their configurations. Maybe we could have all of the details contained in a csv file.
-(The columns would be filled with all the data), and we could configure the admin app to recognize the incoming data. I'm not
-completely sure how I would go about programming this, but I imagine it might be a bit more complex compared to stuff we are doing.
-However, once the wheel has been made, it'd be a nice tool.

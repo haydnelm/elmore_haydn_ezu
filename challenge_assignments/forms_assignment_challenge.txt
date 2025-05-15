@@ -1,7 +1,0 @@
-One change we could make to the django admin app for this week would be adding custom admin actions.
-This concept is featured within the third recommended link: https://testdriven.io/blog/customize-django-admin/
-Basically, we could add a new admin request that allows us to perform multiple actions at once.
-For instance, this week we're testing deletes and the structural integrity of our database. We could
-add an admin action that allows us to attempt to delete multiple different records (students, sections, instructor, etc...)
-The action could feed a report similar to each individual action, it'd just be compounded into one response.
-Essentially, we'd be able to mass test each of our data columns rather than testing one at a time.
